@@ -19,11 +19,11 @@ Education
 
 Work experience
 ======
-* School Tutor - Mathadore (Oct 2023 - Present)
+* **School Tutor** - *Mathadore* (Oct 2023 - Present)
   * Tutored 23 different students ranging from elementary school to high school every week in Mathematics, French Literature, English and German.
-* Ensured students regained confidence & helped them face the different challenges of school curricula.
+  * Ensured students regained confidence & helped them face the different challenges of school curricula.
 
-* Research in Computational Cognitive Science - CLIC Lab (The University of Edinburgh / The University of Melbourne) supervised by Dr. Frank Mollica (Dec 2022 – Present)
+* **Research in Computational Cognitive Science** - *CLIC Lab* (The University of Edinburgh / The University of Melbourne) supervised by Dr. Frank Mollica (Dec 2022 – Present)
   * Conducted literature reviews to build strong theoretical foundations for our hypotheses.
   * Developed novel mathematical models to formalize hypotheses in cognitive science.
   * Used machine learning tools and statistical modeling to analyze cross-linguistic typological features and implement computational models.
@@ -31,7 +31,7 @@ Work experience
   * Presented research into a published scientific report and data visualizations.
 
 
-* Organization, Research, Computer & Network Engineering - Nolots / Absolem (Jun 2019 – Present)
+* **Organization, Research, Computer & Network Engineering** - *Nolots / Absolem* (Jun 2019 – Present)
   * Helped create the collective and organized various artistic and technical projects.
   * Ensured the conceptual foundations and culture of the collective would create a safe space for artists & their projects.
   * Developed and maintained computer & network infrastructures to support artists.

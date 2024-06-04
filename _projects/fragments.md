@@ -2,7 +2,7 @@
 title: "The Journal of Fragments"
 excerpt: "An interdisciplinary journal for fragmentary work."
 collection: projects
-permalink: /fragments/
+permalink: /projects/fragments/
 ---
 
 The Journal of Fragments

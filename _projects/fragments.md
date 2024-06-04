@@ -2,8 +2,9 @@
 title: "The Journal of Fragments"
 excerpt: "An interdisciplinary journal for fragmentary work."
 collection: projects
-permalink: /projects/fragments/
 ---
+
+{% include base_path %}
 
 The Journal of Fragments
 ======

@@ -30,7 +30,6 @@ Work experience
   * Collaborated closely with colleagues on complex projects and coordinated communication.
   * Presented research into a published scientific report and data visualizations.
 
-
 * **Organization, Research, Computer & Network Engineering** - *Nolots / Absolem* (Jun 2019 – Present)
   * Helped create the collective and organized various artistic and technical projects.
   * Ensured the conceptual foundations and culture of the collective would create a safe space for artists & their projects.

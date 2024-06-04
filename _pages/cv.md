@@ -9,37 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+<!--[Link to pdf CV](test.html)-->
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Cognitive Science, The University of Edinburgh, School of Informatics, 2022
+* BSc in Computer Science, Sorbonne University, 2020
+* BA in Linguistics & Literature, Sorbonne University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* School Tutor - Mathadore (Oct 2023 - Present)
+  * Tutored 23 different students ranging from elementary school to high school every week in Mathematics, French Literature, English and German.
+* Ensured students regained confidence & helped them face the different challenges of school curricula.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research in Computational Cognitive Science - CLIC Lab (The University of Edinburgh / The University of Melbourne) supervised by Dr. Frank Mollica (Dec 2022 – Present)
+  * Conducted literature reviews to build strong theoretical foundations for our hypotheses.
+  * Developed novel mathematical models to formalize hypotheses in cognitive science.
+  * Used machine learning tools and statistical modeling to analyze cross-linguistic typological features and implement computational models.
+  * Collaborated closely with colleagues on complex projects and coordinated communication.
+  * Presented research into a published scientific report and data visualizations.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
+* Organization, Research, Computer & Network Engineering - Nolots / Absolem (Jun 2019 – Present)
+  * Helped create the collective and organized various artistic and technical projects.
+  * Ensured the conceptual foundations and culture of the collective would create a safe space for artists & their projects.
+  * Developed and maintained computer & network infrastructures to support artists.
+  * Implemented and maintained the backend of a broadcasting service for an independent web radio.
+  * Building an interdisciplinary journal for fragmentary work from interdisciplinary people interested in art, poetry, philosophy, informatics and science.
+
   
-Skills
+Other Skills & Knowledge
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: English (C2), French (Native), Italian (Bilingual)
+* Engineering: Python, R, SQL, PHP, JavaScript, C, C++, Java, Rust, Docker, CI/CD, Git
+* Mathematics/Informatics: Information Theory, Computation Theory, Complexity Analysis, Statistical Modeling, Bayesian Inference, Formal Logic, Category Theory, Graph Theory
+* Cognitive Science: Philosophy of Science, Philosophy of Language, Computational Cognitive Science, 4E Cognition, Evolution of Language, Social Cognition, Language Acquisition
 
 Publications
 ======
@@ -47,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+-->

@@ -25,23 +25,23 @@ Work experience
   * Developed personalized study plans to meet students’ needs.
 
 * **Research in Computational Cognitive Science & Linguistics** - *CLIC Lab* (The University of Edinburgh / The University of Melbourne) supervised by Dr. Frank Mollica (Dec 2022 – Present)
-* Reviewed research in linguistics and cognitive science to propose projects to address the gaps in the literature.
-* Built upon existing research in linguistics and cognitive science by contributing new concepts and methods for testing hypotheses.
-* Applied knowledge in statistical modeling and data analysis to conduct research on cross-linguistic data for 110 languages.
-* Developed computational models to propose novel formalizations of developmental and communicative theories in cognitive linguistics.
-* Presented our work in a published scientific report and attended conferences to present and discuss our research.
+  * Reviewed research in linguistics and cognitive science to propose projects to address the gaps in the literature.
+  * Built upon existing research in linguistics and cognitive science by contributing new concepts and methods for testing hypotheses.
+  * Applied knowledge in statistical modeling and data analysis to conduct research on cross-linguistic data for 110 languages.
+  * Developed computational models to propose novel formalizations of developmental and communicative theories in cognitive linguistics.
+  * Presented our work in a published scientific report and attended conferences to present and discuss our research.
 
 * **Project Coordinator & Technical Specialist** - *Nolots / Absolem* (Jun 2019 – Aug 2023)
-* Co-founded the collective and organized various artistic and technical projects.
-* Developed and maintained computer and network infrastructures to support artists.
-* Implemented and maintained the backend of a broadcasting service for an independent web radio.
-* Launched an interdisciplinary journal for fragmentary work from people interested in art, poetry, philosophy, informatics and science.
+  * Co-founded the collective and organized various artistic and technical projects.
+  * Developed and maintained computer and network infrastructures to support artists.
+  * Implemented and maintained the backend of a broadcasting service for an independent web radio.
+  * Launched an interdisciplinary journal for fragmentary work from people interested in art, poetry, philosophy, informatics and science.
 
 * **Research Assistant** - *Sorbonne University* (Sep 2018 – Mar 2019)
-* Developed computational tools to help analyze large corpora of poetry.
-* Analyzed linguistics variations across genres and time in the poems of the corpora and reported my findings in a report.
-* Made the analyses and tools produced available to other researchers.
-  
+  * Developed computational tools to help analyze large corpora of poetry.
+  * Analyzed linguistics variations across genres and time in the poems of the corpora and reported my findings in a report.
+  * Made the analyses and tools produced available to other researchers.
+    
 Other Skills & Knowledge
 ======
 * Languages: English (C2), French (Native), Italian (Bilingual), German (Conversational)
